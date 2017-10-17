@@ -5,7 +5,7 @@
 // @author        anazhd ( copied from GermainZ css mod )
 // @homepage      http://anazhd.com
 // @run-at        document-start
-// @match         http*://forum.xda-developers.com/*
+// @match         *://forum.xda-developers.com/*
 // ==/UserScript==
 (function() {
 var css = "";
